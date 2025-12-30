@@ -84,3 +84,5 @@ A modern, full-stack Employee Management System suitable for small businesses or
 - **SQLite** was chosen for zero-configuration persistence, making it easy to run locally.
 - **Tailwind CSS** provides a modern, utility-first design system for rapid UI development.
 - **Headless UI** ensures accessibility for interactive components like Modals.
+
+
